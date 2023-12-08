@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to the repository for my personal portfolio website!
+Welcome to the repository for my personal portfolio website..
 
 ## Overview
 
